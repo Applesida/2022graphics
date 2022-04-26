@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1650941226 source:c:\users\weili\onedrive\орн▒\week10_texture_earth\main.cpp
+	<opencv/highgui.h>
+	<GL/glut.h>
+	<opencv/cv.h>
+
+1426320928 c:\users\weili\onedrive\орн▒\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426320928 c:\users\weili\onedrive\орн▒\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
