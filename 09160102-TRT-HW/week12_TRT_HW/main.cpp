@@ -82,7 +82,7 @@ glPushMatrix();
         glmDraw(pmodela2,GLM_TEXTURE);
         glPushMatrix();///ruhands
             glTranslatef(-0.01,0.35,0);
-            glRotatef(-angle*2,0,0,1);
+            glRotatef(-angle*4.5,0,0,1);
             glTranslatef(0,0.3,0);
           ///  glColor3f(1,0.5,0.6);
             glmDraw(pmodela2,GLM_TEXTURE);
@@ -99,7 +99,7 @@ glPushMatrix();
         glmDraw(pmodela2,GLM_TEXTURE);
         glPushMatrix();///luhands
             glTranslatef(-0.01,0.35,0);
-            glRotatef(angle*2,0,0,1);
+            glRotatef(angle*4.5,0,0,1);
             glTranslatef(0,0.3,0);
       ///      glColor3f(1,0.5,0.6);
             glmDraw(pmodela2,GLM_TEXTURE);
@@ -117,7 +117,7 @@ glPushMatrix();
         glmDraw(pmodela3,GLM_TEXTURE);
         glPushMatrix();///rdleg
             glTranslatef(0.01,-0.35,0);
-            glRotatef(-angle*2,0,0,1);
+            glRotatef(-angle*4,0,0,1);
             glTranslatef(0,0.3,0);
      ///       glColor3f(1,0.5,0.6);
             glmDraw(pmodela2,GLM_TEXTURE);
@@ -134,7 +134,7 @@ glPushMatrix();
         glmDraw(pmodela3,GLM_TEXTURE);
         glPushMatrix();///ldleg
             glTranslatef(0.01,-0.35,0);
-            glRotatef(angle*2,0,0,1);
+            glRotatef(angle*4,0,0,1);
             glTranslatef(0,0.3,0);
    ///         glColor3f(1,0.5,0.6);
             glmDraw(pmodela2,GLM_TEXTURE);
